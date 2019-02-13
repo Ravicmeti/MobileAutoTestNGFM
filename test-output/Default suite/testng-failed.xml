@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Default suite]">
+  <test name="Default test(failed)">
+    <classes>
+      <class name="com.fezmob.scripts.TestLoginLogout">
+        <methods>
+          <include name="testAutoLoginLogout"/>
+          <include name="initReport"/>
+          <include name="MobileTestLaunch"/>
+          <include name="initGlobalVar"/>
+          <include name="preCondition"/>
+        </methods>
+      </class> <!-- com.fezmob.scripts.TestLoginLogout -->
+      <class name="com.fezmob.scripts.TestAddJob">
+        <methods>
+          <include name="testAddJob"/>
+        </methods>
+      </class> <!-- com.fezmob.scripts.TestAddJob -->
+      <class name="com.fezmob.scripts.TestAddExpense">
+        <methods>
+          <include name="testAddExpense"/>
+        </methods>
+      </class> <!-- com.fezmob.scripts.TestAddExpense -->
+    </classes>
+  </test> <!-- Default test(failed) -->
+</suite> <!-- Failed suite [Default suite] -->

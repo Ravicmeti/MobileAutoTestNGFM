@@ -1,0 +1,726 @@
+14 Mar 11:50:06,913 INFO - Initializing ExtentReport 
+14 Mar 11:50:07,214 INFO - Initialize Global Variables 
+14 Mar 11:50:40,742 INFO - Auto login 
+14 Mar 11:50:55,865 INFO - Started executing test:testAddExpense 
+14 Mar 11:50:55,891 INFO - Test is PASSED 
+14 Mar 11:50:55,895 INFO - Auto logout 
+14 Mar 11:50:55,896 INFO - Closing App 
+14 Mar 11:50:56,982 INFO - Publishing ExtentReport:./report/14_03_2018_11_50_06.html 
+14 Mar 11:58:11,946 INFO - Initializing ExtentReport 
+14 Mar 11:58:12,218 INFO - Initialize Global Variables 
+14 Mar 11:58:29,047 INFO - Auto login 
+14 Mar 11:58:45,849 INFO - Started executing test:testAddExpense 
+14 Mar 11:58:47,611 ERROR - Test is FAILED 
+14 Mar 11:58:47,613 INFO - Auto logout 
+14 Mar 11:58:47,615 INFO - Closing App 
+14 Mar 11:58:48,819 INFO - Publishing ExtentReport:./report/14_03_2018_11_58_11.html 
+14 Mar 12:05:32,709 INFO - Initializing ExtentReport 
+14 Mar 12:05:32,989 INFO - Initialize Global Variables 
+14 Mar 12:05:50,219 INFO - Auto login 
+14 Mar 12:06:10,473 INFO - Started executing test:testAddExpense 
+14 Mar 12:06:12,936 ERROR - Test is FAILED 
+14 Mar 12:06:12,938 INFO - Auto logout 
+14 Mar 12:06:12,938 INFO - Closing App 
+14 Mar 12:06:14,266 INFO - Publishing ExtentReport:./report/14_03_2018_12_05_32.html 
+14 Mar 12:20:11,877 INFO - Initializing ExtentReport 
+14 Mar 12:20:12,150 INFO - Initialize Global Variables 
+14 Mar 12:20:24,684 INFO - Auto login 
+14 Mar 12:20:41,024 INFO - Started executing test:testAddExpense 
+14 Mar 12:20:41,036 INFO - Test is PASSED 
+14 Mar 12:20:41,039 INFO - Auto logout 
+14 Mar 12:20:41,040 INFO - Closing App 
+14 Mar 12:20:42,439 INFO - Publishing ExtentReport:./report/14_03_2018_12_20_11.html 
+14 Mar 12:21:26,199 INFO - Initializing ExtentReport 
+14 Mar 12:21:26,469 INFO - Initialize Global Variables 
+14 Mar 12:21:38,816 INFO - Auto login 
+14 Mar 12:21:51,769 INFO - Started executing test:testAddExpense 
+14 Mar 12:21:56,790 INFO - Test is PASSED 
+14 Mar 12:21:56,795 INFO - Auto logout 
+14 Mar 12:21:56,797 INFO - Closing App 
+14 Mar 12:21:58,043 INFO - Publishing ExtentReport:./report/14_03_2018_12_21_26.html 
+14 Mar 12:22:26,127 INFO - Initializing ExtentReport 
+14 Mar 12:22:26,487 INFO - Initialize Global Variables 
+14 Mar 12:22:39,161 INFO - Auto login 
+14 Mar 12:22:53,276 INFO - Started executing test:testAddExpense 
+14 Mar 12:23:43,293 INFO - Test is PASSED 
+14 Mar 12:23:43,299 INFO - Auto logout 
+14 Mar 12:23:43,301 INFO - Closing App 
+14 Mar 12:23:44,736 INFO - Publishing ExtentReport:./report/14_03_2018_12_22_26.html 
+14 Mar 12:25:30,928 INFO - Initializing ExtentReport 
+14 Mar 12:25:31,204 INFO - Initialize Global Variables 
+14 Mar 12:25:42,932 INFO - Auto login 
+14 Mar 12:26:00,654 INFO - Started executing test:testAddExpense 
+14 Mar 12:26:50,672 INFO - Test is PASSED 
+14 Mar 12:26:50,678 INFO - Auto logout 
+14 Mar 12:26:50,680 INFO - Closing App 
+14 Mar 12:26:52,204 INFO - Publishing ExtentReport:./report/14_03_2018_12_25_30.html 
+14 Mar 12:28:54,851 INFO - Initializing ExtentReport 
+14 Mar 12:28:55,128 INFO - Initialize Global Variables 
+14 Mar 12:29:06,253 INFO - Auto login 
+14 Mar 12:29:30,215 INFO - Initializing ExtentReport 
+14 Mar 12:29:30,491 INFO - Initialize Global Variables 
+14 Mar 12:31:12,471 INFO - Initializing ExtentReport 
+14 Mar 12:31:12,737 INFO - Initialize Global Variables 
+14 Mar 12:31:24,462 INFO - Auto login 
+14 Mar 12:32:32,958 INFO - Started executing test:testAddExpense 
+14 Mar 12:32:32,978 INFO - Test is PASSED 
+14 Mar 12:32:32,982 INFO - Auto logout 
+14 Mar 12:32:32,984 INFO - Closing App 
+14 Mar 12:32:34,766 INFO - Publishing ExtentReport:./report/14_03_2018_12_31_12.html 
+14 Mar 20:28:45,528 INFO - Initializing ExtentReport 
+14 Mar 20:28:45,847 INFO - Initialize Global Variables 
+14 Mar 20:29:06,265 INFO - Auto login 
+14 Mar 20:30:12,550 INFO - Started executing test:testAddJob 
+14 Mar 20:31:34,652 ERROR - Test is FAILED 
+14 Mar 20:31:34,654 INFO - Auto logout 
+14 Mar 20:36:32,772 INFO - Initializing ExtentReport 
+14 Mar 20:36:33,103 INFO - Initialize Global Variables 
+14 Mar 20:36:47,044 INFO - Auto login 
+14 Mar 20:41:50,337 INFO - Initializing ExtentReport 
+14 Mar 20:41:50,623 INFO - Initialize Global Variables 
+14 Mar 20:42:03,489 INFO - Auto login 
+14 Mar 20:43:10,907 INFO - Started executing test:testAddJob 
+14 Mar 20:44:32,865 ERROR - Test is FAILED 
+14 Mar 20:44:32,868 INFO - Auto logout 
+14 Mar 20:45:05,479 INFO - Initializing ExtentReport 
+14 Mar 20:45:05,831 INFO - Initialize Global Variables 
+14 Mar 20:45:37,880 INFO - Initializing ExtentReport 
+14 Mar 20:45:38,226 INFO - Initialize Global Variables 
+14 Mar 20:45:51,749 INFO - Auto login 
+14 Mar 20:46:58,584 INFO - Started executing test:testAddJob 
+14 Mar 20:47:46,713 ERROR - Test is FAILED 
+14 Mar 20:47:46,717 INFO - Auto logout 
+14 Mar 20:53:17,653 INFO - Initializing ExtentReport 
+14 Mar 20:53:17,930 INFO - Initialize Global Variables 
+14 Mar 20:53:32,090 INFO - Auto login 
+14 Mar 20:54:39,608 INFO - Started executing test:testAutoLoginLogout 
+14 Mar 20:54:39,621 INFO - This script will automatically login and logout 
+14 Mar 20:54:39,627 INFO - Test is PASSED 
+14 Mar 20:54:39,631 INFO - Auto logout 
+14 Mar 20:57:27,500 INFO - Initializing ExtentReport 
+14 Mar 20:57:27,777 INFO - Initialize Global Variables 
+14 Mar 20:57:41,409 INFO - Auto login 
+14 Mar 20:58:48,906 INFO - Started executing test:testAddJob 
+14 Mar 21:00:10,744 ERROR - Test is FAILED 
+14 Mar 21:00:10,747 INFO - Auto logout 
+14 Mar 21:12:37,311 INFO - Initializing ExtentReport 
+14 Mar 21:12:37,577 INFO - Initialize Global Variables 
+14 Mar 21:12:52,559 INFO - Auto login 
+14 Mar 21:13:59,491 INFO - Started executing test:testAutoLoginLogout 
+14 Mar 21:13:59,503 INFO - This script will automatically login and logout 
+14 Mar 21:13:59,510 INFO - Test is PASSED 
+14 Mar 21:13:59,515 INFO - Auto logout 
+14 Mar 21:25:32,267 INFO - Initializing ExtentReport 
+14 Mar 21:25:32,536 INFO - Initialize Global Variables 
+14 Mar 21:25:48,446 INFO - Auto login 
+14 Mar 21:26:54,110 INFO - Started executing test:testAutoLoginLogout 
+14 Mar 21:26:54,125 INFO - This script will automatically login and logout 
+14 Mar 21:26:54,132 INFO - Test is PASSED 
+14 Mar 21:26:54,137 INFO - Auto logout 
+14 Mar 21:29:27,109 INFO - Initializing ExtentReport 
+14 Mar 21:29:27,371 INFO - Initialize Global Variables 
+14 Mar 21:29:52,730 INFO - Auto login 
+14 Mar 21:30:59,951 INFO - Started executing test:testAutoLoginLogout 
+14 Mar 21:30:59,964 INFO - This script will automatically login and logout 
+14 Mar 21:30:59,970 INFO - Test is PASSED 
+14 Mar 21:30:59,976 INFO - Auto logout 
+14 Mar 21:31:05,201 INFO - Closing App 
+14 Mar 21:31:29,535 INFO - Auto login 
+14 Mar 21:32:31,741 INFO - Started executing test:testAddJob 
+14 Mar 21:33:54,154 ERROR - Test is FAILED 
+14 Mar 21:33:54,154 INFO - Auto logout 
+14 Mar 21:33:58,800 INFO - Closing App 
+14 Mar 21:33:59,970 INFO - Publishing ExtentReport:./report/14_03_2018_09_29_27.html 
+15 Mar 12:16:54,481 INFO - Initializing ExtentReport 
+15 Mar 12:16:54,764 INFO - Initialize Global Variables 
+15 Mar 12:17:08,602 INFO - Auto login 
+15 Mar 12:18:14,759 INFO - Started executing test:testAutoLoginLogout 
+15 Mar 12:18:14,773 INFO - This script will automatically login and logout 
+15 Mar 12:18:14,781 INFO - Test is PASSED 
+15 Mar 12:18:14,787 INFO - Auto logout 
+15 Mar 12:23:32,733 INFO - Initializing ExtentReport 
+15 Mar 12:23:33,004 INFO - Initialize Global Variables 
+15 Mar 12:23:46,547 INFO - Auto login 
+15 Mar 12:24:57,117 INFO - Started executing test:testAutoLoginLogout 
+15 Mar 12:24:57,129 INFO - This script will automatically login and logout 
+15 Mar 12:24:57,136 INFO - Test is PASSED 
+15 Mar 12:24:57,142 INFO - Auto logout 
+15 Mar 12:35:51,877 INFO - Initializing ExtentReport 
+15 Mar 12:35:52,155 INFO - Initialize Global Variables 
+15 Mar 12:36:08,401 INFO - Auto login 
+15 Mar 12:42:29,790 INFO - Initializing ExtentReport 
+15 Mar 12:42:30,067 INFO - Initialize Global Variables 
+15 Mar 12:42:41,453 INFO - Auto login 
+15 Mar 12:43:18,772 INFO - Initializing ExtentReport 
+15 Mar 12:43:19,036 INFO - Initialize Global Variables 
+15 Mar 12:43:30,557 INFO - Auto login 
+15 Mar 12:44:14,861 INFO - Initializing ExtentReport 
+15 Mar 12:44:15,125 INFO - Initialize Global Variables 
+15 Mar 12:48:31,436 INFO - Initializing ExtentReport 
+15 Mar 12:48:31,760 INFO - Initialize Global Variables 
+15 Mar 12:48:43,830 INFO - Auto login 
+15 Mar 12:50:10,198 INFO - Initializing ExtentReport 
+15 Mar 12:50:10,465 INFO - Initialize Global Variables 
+15 Mar 12:50:22,906 INFO - Auto login 
+15 Mar 12:55:31,195 INFO - Initializing ExtentReport 
+15 Mar 12:55:31,494 INFO - Initialize Global Variables 
+15 Mar 12:55:59,335 INFO - Auto login 
+15 Mar 13:09:54,317 INFO - Initializing ExtentReport 
+15 Mar 13:09:54,597 INFO - Initialize Global Variables 
+15 Mar 13:10:07,339 INFO - Auto login 
+15 Mar 17:08:10,174 INFO - Initializing ExtentReport 
+15 Mar 17:08:10,445 INFO - Initialize Global Variables 
+15 Mar 17:08:24,031 INFO - Auto login 
+15 Mar 17:08:35,319 INFO - Initializing ExtentReport 
+15 Mar 17:08:35,641 INFO - Initialize Global Variables 
+15 Mar 17:08:49,810 INFO - Initializing ExtentReport 
+15 Mar 17:08:50,122 INFO - Initialize Global Variables 
+15 Mar 17:09:07,485 INFO - Initializing ExtentReport 
+15 Mar 17:09:07,785 INFO - Initialize Global Variables 
+16 Mar 13:08:28,812 INFO - Initializing ExtentReport 
+16 Mar 13:08:29,242 INFO - Initialize Global Variables 
+16 Mar 13:08:44,554 INFO - Auto login 
+16 Mar 13:10:18,043 INFO - Initializing ExtentReport 
+16 Mar 13:10:18,321 INFO - Initialize Global Variables 
+16 Mar 13:10:30,522 INFO - Auto login 
+16 Mar 13:11:04,429 INFO - Initializing ExtentReport 
+16 Mar 13:11:04,697 INFO - Initialize Global Variables 
+16 Mar 13:12:53,699 INFO - Initializing ExtentReport 
+16 Mar 13:12:53,956 INFO - Initialize Global Variables 
+16 Mar 13:13:05,693 INFO - Auto login 
+16 Mar 13:14:09,267 INFO - Initializing ExtentReport 
+16 Mar 13:14:09,561 INFO - Initialize Global Variables 
+16 Mar 13:14:21,915 INFO - Auto login 
+16 Mar 13:16:46,143 INFO - Initializing ExtentReport 
+16 Mar 13:16:46,440 INFO - Initialize Global Variables 
+16 Mar 13:16:59,108 INFO - Auto login 
+16 Mar 13:18:03,266 INFO - Started executing test:testAutoLoginLogout 
+16 Mar 13:18:03,278 INFO - This script will automatically login and logout 
+16 Mar 13:18:03,284 INFO - Test is PASSED 
+16 Mar 13:18:03,289 INFO - Auto logout 
+16 Mar 13:19:49,996 INFO - Initializing ExtentReport 
+16 Mar 13:19:50,256 INFO - Initialize Global Variables 
+16 Mar 13:20:01,741 INFO - Auto login 
+16 Mar 13:20:52,306 INFO - Initializing ExtentReport 
+16 Mar 13:20:52,597 INFO - Initialize Global Variables 
+16 Mar 13:21:40,941 INFO - Initializing ExtentReport 
+16 Mar 13:21:41,215 INFO - Initialize Global Variables 
+16 Mar 13:22:09,334 INFO - Auto login 
+16 Mar 13:22:48,627 INFO - Initializing ExtentReport 
+16 Mar 13:22:48,886 INFO - Initialize Global Variables 
+16 Mar 13:23:11,999 INFO - Initializing ExtentReport 
+16 Mar 13:23:12,257 INFO - Initialize Global Variables 
+16 Mar 13:23:24,378 INFO - Auto login 
+16 Mar 13:24:56,079 INFO - Initializing ExtentReport 
+16 Mar 13:24:56,348 INFO - Initialize Global Variables 
+16 Mar 13:25:08,951 INFO - Auto login 
+16 Mar 13:26:12,320 INFO - Started executing test:testAutoLoginLogout 
+16 Mar 13:26:12,334 INFO - This script will automatically login and logout 
+16 Mar 13:26:12,340 INFO - Test is PASSED 
+16 Mar 13:26:12,345 INFO - Auto logout 
+16 Mar 13:27:33,774 INFO - Initializing ExtentReport 
+16 Mar 13:27:34,041 INFO - Initialize Global Variables 
+16 Mar 13:27:46,390 INFO - Auto login 
+16 Mar 13:36:51,274 INFO - Initializing ExtentReport 
+16 Mar 13:36:51,548 INFO - Initialize Global Variables 
+16 Mar 13:37:21,840 INFO - Initializing ExtentReport 
+16 Mar 13:37:22,175 INFO - Initialize Global Variables 
+16 Mar 13:37:33,980 INFO - Auto login 
+18 Mar 19:53:09,657 INFO - Initializing ExtentReport 
+18 Mar 19:53:09,981 INFO - Initialize Global Variables 
+18 Mar 20:01:45,347 INFO - Initializing ExtentReport 
+18 Mar 20:01:45,615 INFO - Initialize Global Variables 
+18 Mar 20:02:02,205 INFO - Auto login 
+18 Mar 20:04:33,275 INFO - Initializing ExtentReport 
+18 Mar 20:04:33,546 INFO - Initialize Global Variables 
+18 Mar 20:04:46,420 INFO - Auto login 
+18 Mar 20:10:10,306 INFO - Initializing ExtentReport 
+18 Mar 20:10:10,572 INFO - Initialize Global Variables 
+18 Mar 20:10:24,860 INFO - Auto login 
+18 Mar 20:13:39,583 INFO - Initializing ExtentReport 
+18 Mar 20:13:39,859 INFO - Initialize Global Variables 
+18 Mar 20:13:52,122 INFO - Auto login 
+18 Mar 20:15:17,866 INFO - Initializing ExtentReport 
+18 Mar 20:15:18,136 INFO - Initialize Global Variables 
+18 Mar 20:15:31,024 INFO - Auto login 
+18 Mar 20:16:21,971 INFO - Initializing ExtentReport 
+18 Mar 20:16:22,265 INFO - Initialize Global Variables 
+18 Mar 20:16:59,210 INFO - Initializing ExtentReport 
+18 Mar 20:16:59,480 INFO - Initialize Global Variables 
+18 Mar 20:17:11,373 INFO - Auto login 
+18 Mar 20:24:25,659 INFO - Initializing ExtentReport 
+18 Mar 20:24:25,928 INFO - Initialize Global Variables 
+18 Mar 20:24:38,584 INFO - Auto login 
+18 Mar 20:25:11,823 INFO - Initializing ExtentReport 
+18 Mar 20:25:12,099 INFO - Initialize Global Variables 
+18 Mar 20:51:24,910 INFO - Initializing ExtentReport 
+18 Mar 20:51:25,243 INFO - Initialize Global Variables 
+18 Mar 20:51:38,267 INFO - Auto login 
+18 Mar 20:55:47,598 INFO - Initializing ExtentReport 
+18 Mar 20:55:47,882 INFO - Initialize Global Variables 
+18 Mar 20:56:00,021 INFO - Auto login 
+18 Mar 21:05:29,506 INFO - Initializing ExtentReport 
+18 Mar 21:05:29,796 INFO - Initialize Global Variables 
+18 Mar 21:05:58,402 INFO - Auto login 
+18 Mar 21:08:31,429 INFO - Initializing ExtentReport 
+18 Mar 21:08:31,701 INFO - Initialize Global Variables 
+18 Mar 21:08:44,383 INFO - Auto login 
+18 Mar 21:19:25,758 INFO - Initializing ExtentReport 
+18 Mar 21:19:26,120 INFO - Initialize Global Variables 
+18 Mar 21:19:39,136 INFO - Auto login 
+18 Mar 21:25:14,094 INFO - Initializing ExtentReport 
+18 Mar 21:25:14,378 INFO - Initialize Global Variables 
+18 Mar 21:25:28,170 INFO - Auto login 
+18 Mar 21:27:07,362 INFO - Initializing ExtentReport 
+18 Mar 21:27:07,630 INFO - Initialize Global Variables 
+18 Mar 21:27:21,576 INFO - Auto login 
+18 Mar 21:34:31,287 INFO - Initializing ExtentReport 
+18 Mar 21:34:31,555 INFO - Initialize Global Variables 
+18 Mar 21:34:45,094 INFO - Auto login 
+18 Mar 21:35:47,288 INFO - Started executing test:testAutoLoginLogout 
+18 Mar 21:35:47,301 INFO - This script will automatically login and logout 
+18 Mar 21:35:47,307 INFO - Test is PASSED 
+18 Mar 21:35:47,312 INFO - Auto logout 
+18 Mar 21:35:47,322 INFO - Closing App 
+18 Mar 21:35:48,695 INFO - Publishing ExtentReport:./report/18_03_2018_09_34_31.html 
+26 Mar 12:54:25,164 INFO - Initializing ExtentReport 
+26 Mar 12:54:25,758 INFO - Initialize Global Variables 
+26 Mar 12:54:40,948 INFO - Auto login 
+26 Mar 12:55:10,866 INFO - Initializing ExtentReport 
+26 Mar 12:55:11,121 INFO - Initialize Global Variables 
+26 Mar 13:00:37,162 INFO - Initializing ExtentReport 
+26 Mar 13:00:37,427 INFO - Initialize Global Variables 
+26 Mar 13:00:48,904 INFO - Auto login 
+26 Mar 13:18:52,919 INFO - Initializing ExtentReport 
+26 Mar 13:18:53,237 INFO - Initialize Global Variables 
+26 Mar 13:19:05,122 INFO - Auto login 
+26 Mar 13:20:00,169 INFO - Initializing ExtentReport 
+26 Mar 13:20:00,507 INFO - Initialize Global Variables 
+26 Mar 13:20:13,479 INFO - Auto login 
+26 Mar 13:22:00,981 INFO - Initializing ExtentReport 
+26 Mar 13:22:01,248 INFO - Initialize Global Variables 
+26 Mar 13:22:13,198 INFO - Auto login 
+26 Mar 18:48:50,613 INFO - Initializing ExtentReport 
+26 Mar 18:48:50,873 INFO - Initialize Global Variables 
+26 Mar 18:49:05,070 INFO - Auto login 
+27 Mar 11:13:10,735 INFO - Initializing ExtentReport 
+27 Mar 11:13:11,039 INFO - Initialize Global Variables 
+27 Mar 11:14:48,293 INFO - Initializing ExtentReport 
+27 Mar 11:14:48,569 INFO - Initialize Global Variables 
+27 Mar 11:15:01,407 INFO - Auto login 
+27 Mar 11:24:15,586 INFO - Initializing ExtentReport 
+27 Mar 11:24:15,873 INFO - Initialize Global Variables 
+27 Mar 11:24:31,151 INFO - Auto login 
+27 Mar 11:25:46,993 INFO - Initializing ExtentReport 
+27 Mar 11:25:47,254 INFO - Initialize Global Variables 
+27 Mar 11:25:59,340 INFO - Auto login 
+27 Mar 11:27:21,800 INFO - Initializing ExtentReport 
+27 Mar 11:27:22,149 INFO - Initialize Global Variables 
+27 Mar 11:27:33,724 INFO - Auto login 
+27 Mar 11:31:37,569 INFO - Initializing ExtentReport 
+27 Mar 11:31:37,857 INFO - Initialize Global Variables 
+27 Mar 11:31:49,265 INFO - Auto login 
+27 Mar 11:37:38,902 INFO - Initializing ExtentReport 
+27 Mar 11:37:39,181 INFO - Initialize Global Variables 
+27 Mar 11:37:51,540 INFO - Auto login 
+27 Mar 14:42:28,851 INFO - Initializing ExtentReport 
+27 Mar 14:42:29,678 INFO - Initialize Global Variables 
+27 Mar 14:42:42,961 INFO - Auto login 
+27 Mar 14:56:31,064 INFO - Initializing ExtentReport 
+27 Mar 14:56:31,330 INFO - Initialize Global Variables 
+27 Mar 14:56:45,353 INFO - Auto login 
+27 Mar 14:59:13,597 INFO - Initializing ExtentReport 
+27 Mar 14:59:13,862 INFO - Initialize Global Variables 
+27 Mar 14:59:28,151 INFO - Auto login 
+27 Mar 15:04:56,261 INFO - Initializing ExtentReport 
+27 Mar 15:04:56,528 INFO - Initialize Global Variables 
+27 Mar 15:05:09,934 INFO - Auto login 
+27 Mar 15:33:10,666 INFO - Initializing ExtentReport 
+27 Mar 15:33:10,925 INFO - Initialize Global Variables 
+27 Mar 15:33:24,095 INFO - Auto login 
+27 Mar 15:34:07,931 INFO - Initializing ExtentReport 
+27 Mar 15:34:08,238 INFO - Initialize Global Variables 
+27 Mar 15:34:39,823 INFO - Initializing ExtentReport 
+27 Mar 15:34:40,086 INFO - Initialize Global Variables 
+27 Mar 15:34:52,555 INFO - Auto login 
+27 Mar 15:37:43,505 INFO - Initializing ExtentReport 
+27 Mar 15:37:43,778 INFO - Initialize Global Variables 
+27 Mar 15:37:56,391 INFO - Auto login 
+27 Mar 15:37:56,398 INFO - Started executing test:testAutoLoginLogout 
+27 Mar 15:37:56,406 INFO - This script will automatically login and logout 
+27 Mar 15:37:56,411 INFO - Test is PASSED 
+27 Mar 15:37:56,414 INFO - Auto logout 
+27 Mar 15:37:56,415 INFO - Closing App 
+27 Mar 15:37:57,539 INFO - Publishing ExtentReport:./report/27_03_2018_03_37_43.html 
+27 Mar 15:38:56,580 INFO - Initializing ExtentReport 
+27 Mar 15:38:56,844 INFO - Initialize Global Variables 
+27 Mar 15:39:10,180 INFO - Auto login 
+27 Mar 15:39:10,186 INFO - Started executing test:testAutoLoginLogout 
+27 Mar 15:39:10,194 INFO - This script will automatically login and logout 
+27 Mar 15:39:10,198 INFO - Test is PASSED 
+27 Mar 15:39:10,201 INFO - Auto logout 
+27 Mar 15:39:10,202 INFO - Closing App 
+27 Mar 15:39:11,379 INFO - Publishing ExtentReport:./report/27_03_2018_03_38_56.html 
+27 Mar 15:41:06,017 INFO - Initializing ExtentReport 
+27 Mar 15:41:06,270 INFO - Initialize Global Variables 
+27 Mar 15:41:21,770 INFO - Auto login 
+27 Mar 15:41:21,978 INFO - Started executing test:testAutoLoginLogout 
+27 Mar 15:41:21,985 INFO - This script will automatically login and logout 
+27 Mar 15:41:21,989 INFO - Test is PASSED 
+27 Mar 15:41:21,991 INFO - Auto logout 
+27 Mar 15:41:21,992 INFO - Closing App 
+27 Mar 15:41:23,129 INFO - Publishing ExtentReport:./report/27_03_2018_03_41_06.html 
+27 Mar 15:43:57,590 INFO - Initializing ExtentReport 
+27 Mar 15:43:57,846 INFO - Initialize Global Variables 
+27 Mar 15:44:09,095 INFO - Auto login 
+27 Mar 15:52:00,219 INFO - Initializing ExtentReport 
+27 Mar 15:52:00,490 INFO - Initialize Global Variables 
+27 Mar 15:52:15,538 INFO - Auto login 
+27 Mar 15:53:48,521 INFO - Initializing ExtentReport 
+27 Mar 15:53:48,777 INFO - Initialize Global Variables 
+27 Mar 15:54:00,936 INFO - Auto login 
+27 Mar 15:56:27,940 INFO - Initializing ExtentReport 
+27 Mar 15:56:28,285 INFO - Initialize Global Variables 
+27 Mar 15:56:39,652 INFO - Auto login 
+27 Mar 15:59:17,730 INFO - Initializing ExtentReport 
+27 Mar 15:59:17,993 INFO - Initialize Global Variables 
+27 Mar 15:59:30,752 INFO - Auto login 
+27 Mar 17:28:03,653 INFO - Initializing ExtentReport 
+27 Mar 17:28:04,045 INFO - Initialize Global Variables 
+27 Mar 17:28:25,292 INFO - Auto login 
+27 Mar 17:31:16,362 INFO - Initializing ExtentReport 
+27 Mar 17:31:16,620 INFO - Initialize Global Variables 
+27 Mar 17:31:27,461 INFO - Auto login 
+27 Mar 21:23:17,828 INFO - Initializing ExtentReport 
+27 Mar 21:23:18,145 INFO - Initialize Global Variables 
+27 Mar 21:24:28,330 INFO - Auto login 
+27 Mar 21:29:32,309 INFO - Initializing ExtentReport 
+27 Mar 21:29:32,634 INFO - Initialize Global Variables 
+27 Mar 21:30:13,895 INFO - Auto login 
+27 Mar 21:34:58,028 INFO - Initializing ExtentReport 
+27 Mar 21:34:58,365 INFO - Initialize Global Variables 
+27 Mar 21:35:16,588 INFO - Initializing ExtentReport 
+27 Mar 21:35:16,880 INFO - Initialize Global Variables 
+27 Mar 21:35:58,406 INFO - Auto login 
+27 Mar 21:36:12,287 INFO - Started executing test:testAutoLoginLogout 
+27 Mar 21:36:12,296 INFO - This script will automatically login and logout 
+27 Mar 21:36:12,302 INFO - Test is PASSED 
+27 Mar 21:36:12,309 INFO - Auto logout 
+27 Mar 21:36:12,310 INFO - Closing App 
+27 Mar 21:36:13,662 INFO - Publishing ExtentReport:./report/27_03_2018_09_35_16.html 
+27 Mar 21:38:56,491 INFO - Initializing ExtentReport 
+27 Mar 21:38:56,802 INFO - Initialize Global Variables 
+27 Mar 21:39:17,841 INFO - Auto login 
+27 Mar 21:39:18,095 INFO - Started executing test:testAutoLoginLogout 
+27 Mar 21:39:18,102 INFO - This script will automatically login and logout 
+27 Mar 21:39:18,107 INFO - Test is PASSED 
+27 Mar 21:39:18,109 INFO - Auto logout 
+27 Mar 21:39:18,110 INFO - Closing App 
+27 Mar 21:39:19,206 INFO - Publishing ExtentReport:./report/27_03_2018_09_38_56.html 
+27 Mar 21:40:22,677 INFO - Initializing ExtentReport 
+27 Mar 21:40:22,991 INFO - Initialize Global Variables 
+27 Mar 21:40:52,802 INFO - Auto login 
+28 Mar 11:50:35,866 INFO - Initializing ExtentReport 
+28 Mar 11:50:36,220 INFO - Initialize Global Variables 
+28 Mar 11:50:49,138 INFO - Auto login 
+28 Mar 12:05:00,422 INFO - Initializing ExtentReport 
+28 Mar 12:05:00,774 INFO - Initialize Global Variables 
+28 Mar 12:05:15,385 INFO - Auto login 
+28 Mar 12:12:35,579 INFO - Initializing ExtentReport 
+28 Mar 12:12:35,878 INFO - Initialize Global Variables 
+28 Mar 12:12:48,185 INFO - Auto login 
+28 Mar 12:16:39,897 INFO - Initializing ExtentReport 
+28 Mar 12:16:40,193 INFO - Initialize Global Variables 
+28 Mar 12:16:53,277 INFO - Auto login 
+28 Mar 12:17:35,646 INFO - Initializing ExtentReport 
+28 Mar 12:17:35,988 INFO - Initialize Global Variables 
+28 Mar 12:17:48,438 INFO - Auto login 
+28 Mar 12:19:42,684 INFO - Initializing ExtentReport 
+28 Mar 12:19:43,068 INFO - Initialize Global Variables 
+28 Mar 12:19:56,173 INFO - Auto login 
+28 Mar 12:21:42,277 INFO - Initializing ExtentReport 
+28 Mar 12:21:42,625 INFO - Initialize Global Variables 
+28 Mar 12:21:56,082 INFO - Auto login 
+28 Mar 12:24:48,920 INFO - Initializing ExtentReport 
+28 Mar 12:24:49,268 INFO - Initialize Global Variables 
+28 Mar 12:25:02,668 INFO - Auto login 
+28 Mar 12:36:46,642 INFO - Initializing ExtentReport 
+28 Mar 12:36:46,949 INFO - Initialize Global Variables 
+28 Mar 12:37:00,194 INFO - Auto login 
+28 Mar 14:57:32,144 INFO - Initializing ExtentReport 
+28 Mar 14:57:32,479 INFO - Initialize Global Variables 
+28 Mar 14:57:45,990 INFO - Auto login 
+28 Mar 14:57:59,171 INFO - Started executing test:testAutoLoginLogout 
+28 Mar 14:57:59,180 INFO - This script will automatically login and logout 
+28 Mar 14:57:59,187 INFO - Test is PASSED 
+28 Mar 14:57:59,191 INFO - Auto logout 
+28 Mar 14:57:59,192 INFO - Closing App 
+28 Mar 14:58:00,557 INFO - Publishing ExtentReport:./report/28_03_2018_02_57_32.html 
+28 Mar 14:59:44,593 INFO - Initializing ExtentReport 
+28 Mar 14:59:44,965 INFO - Initialize Global Variables 
+28 Mar 14:59:58,388 INFO - Auto login 
+28 Mar 15:01:25,939 INFO - Started executing test:testAutoLoginLogout 
+28 Mar 15:01:25,949 INFO - This script will automatically login and logout 
+28 Mar 15:01:25,955 INFO - Test is PASSED 
+28 Mar 15:01:25,960 INFO - Auto logout 
+28 Mar 15:01:25,961 INFO - Closing App 
+28 Mar 15:01:27,345 INFO - Publishing ExtentReport:./report/28_03_2018_02_59_44.html 
+28 Mar 15:04:07,963 INFO - Initializing ExtentReport 
+28 Mar 15:04:08,326 INFO - Initialize Global Variables 
+28 Mar 15:04:37,655 INFO - Auto login 
+28 Mar 15:15:04,565 INFO - Started executing test:testAutoLoginLogout 
+28 Mar 15:15:04,580 INFO - This script will automatically login and logout 
+28 Mar 15:15:04,589 INFO - Test is PASSED 
+28 Mar 15:15:04,602 INFO - Auto logout 
+28 Mar 15:15:04,603 INFO - Closing App 
+28 Mar 16:39:42,594 INFO - Initializing ExtentReport 
+28 Mar 16:39:43,015 INFO - Initialize Global Variables 
+28 Mar 16:39:56,753 INFO - Auto login 
+28 Mar 16:44:16,615 INFO - Initializing ExtentReport 
+28 Mar 16:44:17,005 INFO - Initialize Global Variables 
+28 Mar 16:44:29,180 INFO - Auto login 
+28 Mar 16:50:38,260 INFO - Initializing ExtentReport 
+28 Mar 16:50:38,641 INFO - Initialize Global Variables 
+28 Mar 16:50:51,471 INFO - Auto login 
+28 Mar 17:06:45,393 INFO - Initializing ExtentReport 
+28 Mar 17:06:45,821 INFO - Initialize Global Variables 
+28 Mar 17:06:58,382 INFO - Auto login 
+28 Mar 17:09:13,318 INFO - Initializing ExtentReport 
+28 Mar 17:09:13,689 INFO - Initialize Global Variables 
+28 Mar 17:10:34,731 INFO - Initializing ExtentReport 
+28 Mar 17:10:35,091 INFO - Initialize Global Variables 
+28 Mar 17:12:30,939 INFO - Initializing ExtentReport 
+28 Mar 17:12:31,304 INFO - Initialize Global Variables 
+28 Mar 17:12:43,871 INFO - Auto login 
+28 Mar 17:16:10,269 INFO - Initializing ExtentReport 
+28 Mar 17:16:10,583 INFO - Initialize Global Variables 
+28 Mar 17:18:29,403 INFO - Initializing ExtentReport 
+28 Mar 17:18:29,759 INFO - Initialize Global Variables 
+28 Mar 17:18:42,015 INFO - Auto login 
+11 Apr 12:59:53,423 INFO - Initializing ExtentReport 
+11 Apr 12:59:54,064 INFO - Initialize Global Variables 
+11 Apr 21:39:22,365 INFO - Initializing ExtentReport 
+11 Apr 21:39:22,670 INFO - Initialize Global Variables 
+11 Apr 21:40:03,555 INFO - Auto login 
+16 Apr 16:59:33,271 INFO - Initializing ExtentReport 
+16 Apr 16:59:33,826 INFO - Initialize Global Variables 
+16 Apr 17:00:17,466 INFO - Initializing ExtentReport 
+16 Apr 17:00:17,700 INFO - Initialize Global Variables 
+16 Apr 17:00:43,948 INFO - Initializing ExtentReport 
+16 Apr 17:00:44,176 INFO - Initialize Global Variables 
+16 Apr 17:01:15,242 INFO - Auto login 
+16 Apr 17:02:12,291 INFO - Initializing ExtentReport 
+16 Apr 17:02:12,518 INFO - Initialize Global Variables 
+16 Apr 17:02:39,960 INFO - Auto login 
+16 Apr 17:07:45,794 INFO - Initializing ExtentReport 
+16 Apr 17:07:46,093 INFO - Initialize Global Variables 
+16 Apr 17:08:12,668 INFO - Auto login 
+16 Apr 17:11:01,249 INFO - Initializing ExtentReport 
+16 Apr 17:11:01,470 INFO - Initialize Global Variables 
+16 Apr 17:11:28,773 INFO - Auto login 
+16 Apr 17:13:53,567 INFO - Initializing ExtentReport 
+16 Apr 17:13:53,801 INFO - Initialize Global Variables 
+16 Apr 17:14:20,354 INFO - Auto login 
+16 Apr 17:20:26,214 INFO - Initializing ExtentReport 
+16 Apr 17:20:26,440 INFO - Initialize Global Variables 
+16 Apr 17:20:53,541 INFO - Auto login 
+16 Apr 17:32:53,893 INFO - Initializing ExtentReport 
+16 Apr 17:32:54,103 INFO - Initialize Global Variables 
+16 Apr 17:33:22,880 INFO - Auto login 
+16 Apr 17:33:24,533 INFO - Started executing test:testAutoLoginLogout 
+16 Apr 17:33:24,542 INFO - This script will automatically login and logout 
+16 Apr 17:33:24,548 INFO - Test is PASSED 
+16 Apr 17:33:24,552 INFO - Auto logout 
+16 Apr 17:33:24,553 INFO - Closing App 
+16 Apr 17:33:28,169 INFO - Publishing ExtentReport:./report/16_04_2018_05_32_53.html 
+16 Apr 17:40:50,736 INFO - Initializing ExtentReport 
+16 Apr 17:40:50,937 INFO - Initialize Global Variables 
+16 Apr 17:41:17,981 INFO - Auto login 
+16 Apr 17:41:18,932 INFO - Started executing test:testAutoLoginLogout 
+16 Apr 17:41:18,942 INFO - This script will automatically login and logout 
+16 Apr 17:41:18,947 INFO - Test is PASSED 
+16 Apr 17:41:18,950 INFO - Auto logout 
+16 Apr 17:41:18,951 INFO - Closing App 
+16 Apr 17:41:22,710 INFO - Publishing ExtentReport:./report/16_04_2018_05_40_50.html 
+16 Apr 17:42:09,549 INFO - Initializing ExtentReport 
+16 Apr 17:42:09,767 INFO - Initialize Global Variables 
+16 Apr 17:42:36,381 INFO - Auto login 
+22 May 18:45:18,553 INFO - Initializing ExtentReport 
+22 May 18:45:19,055 INFO - Initialize Global Variables 
+22 May 18:45:35,960 INFO - Auto login 
+22 May 18:53:44,460 INFO - Initializing ExtentReport 
+22 May 18:53:44,721 INFO - Initialize Global Variables 
+22 May 18:54:12,355 INFO - Auto login 
+22 May 19:12:29,859 INFO - Initializing ExtentReport 
+22 May 19:12:30,070 INFO - Initialize Global Variables 
+22 May 19:12:59,420 INFO - Auto login 
+22 May 19:13:08,723 INFO - Started executing test:testAutoLoginLogout 
+22 May 19:13:08,730 INFO - This script will automatically login and logout 
+22 May 19:13:08,736 INFO - Test is PASSED 
+22 May 19:13:08,739 INFO - Auto logout 
+22 May 19:13:08,740 INFO - Closing App 
+22 May 19:13:10,076 INFO - Publishing ExtentReport:./report/22_05_2018_07_12_29.html 
+22 May 23:19:39,157 INFO - Initializing ExtentReport 
+22 May 23:19:39,345 INFO - Initialize Global Variables 
+22 May 23:20:07,620 INFO - Auto login 
+22 May 23:20:18,908 INFO - Started executing test:testAutoLoginLogout 
+22 May 23:20:18,918 INFO - This script will automatically login and logout 
+22 May 23:20:18,925 INFO - Test is PASSED 
+22 May 23:20:18,928 INFO - Auto logout 
+22 May 23:20:18,929 INFO - Closing App 
+22 May 23:20:20,500 INFO - Publishing ExtentReport:./report/22_05_2018_11_19_39.html 
+22 May 23:23:01,341 INFO - Initializing ExtentReport 
+22 May 23:23:01,526 INFO - Initialize Global Variables 
+22 May 23:23:28,044 INFO - Auto login 
+22 May 23:24:37,049 INFO - Started executing test:testAutoLoginLogout 
+22 May 23:24:37,060 INFO - This script will automatically login and logout 
+22 May 23:24:37,070 INFO - Test is PASSED 
+22 May 23:24:37,073 INFO - Auto logout 
+22 May 23:24:37,074 INFO - Closing App 
+22 May 23:24:37,151 INFO - Publishing ExtentReport:./report/22_05_2018_11_23_01.html 
+22 May 23:26:04,318 INFO - Initializing ExtentReport 
+22 May 23:26:04,512 INFO - Initialize Global Variables 
+22 May 23:26:30,912 INFO - Auto login 
+22 May 23:28:16,681 INFO - Initializing ExtentReport 
+22 May 23:28:16,890 INFO - Initialize Global Variables 
+22 May 23:28:43,997 INFO - Auto login 
+23 May 00:03:58,302 INFO - Initializing ExtentReport 
+23 May 00:03:58,496 INFO - Initialize Global Variables 
+23 May 00:04:27,193 INFO - Auto login 
+23 May 00:05:36,525 INFO - Started executing test:testAutoLoginLogout 
+23 May 00:05:36,532 INFO - This script will automatically login and logout 
+23 May 00:05:36,537 INFO - Test is PASSED 
+23 May 00:05:36,542 INFO - Auto logout 
+23 May 00:05:36,543 INFO - Closing App 
+23 May 00:05:36,606 INFO - Publishing ExtentReport:./report/23_05_2018_12_03_58.html 
+23 May 00:13:12,648 INFO - Initializing ExtentReport 
+23 May 00:13:12,831 INFO - Initialize Global Variables 
+23 May 00:13:39,748 INFO - Auto login 
+23 May 00:14:38,885 INFO - Started executing test:testAutoLoginLogout 
+23 May 00:14:38,894 INFO - This script will automatically login and logout 
+23 May 00:14:38,901 INFO - Test is PASSED 
+23 May 00:14:38,904 INFO - Auto logout 
+23 May 00:14:38,905 INFO - Closing App 
+23 May 00:14:40,603 INFO - Publishing ExtentReport:./report/23_05_2018_12_13_12.html 
+23 May 00:16:34,584 INFO - Initializing ExtentReport 
+23 May 00:16:34,765 INFO - Initialize Global Variables 
+23 May 00:17:01,327 INFO - Auto login 
+23 May 00:18:45,154 INFO - Initializing ExtentReport 
+23 May 00:18:45,352 INFO - Initialize Global Variables 
+23 May 00:19:11,973 INFO - Auto login 
+23 May 00:19:56,576 INFO - Started executing test:testAutoLoginLogout 
+23 May 00:19:56,591 INFO - This script will automatically login and logout 
+23 May 00:19:56,602 INFO - Test is PASSED 
+23 May 00:19:56,609 INFO - Auto logout 
+23 May 00:19:56,610 INFO - Closing App 
+23 May 00:19:58,341 INFO - Publishing ExtentReport:./report/23_05_2018_12_18_45.html 
+23 May 00:46:37,777 INFO - Initializing ExtentReport 
+23 May 00:46:38,019 INFO - Initialize Global Variables 
+23 May 00:47:05,713 INFO - Auto login 
+23 May 00:47:44,778 INFO - Confirm continue 
+23 May 00:47:49,805 INFO - Started executing test:testAutoLoginLogout 
+23 May 00:47:49,825 INFO - This script will automatically login and logout 
+23 May 00:47:49,849 INFO - Test is PASSED 
+23 May 00:47:49,853 INFO - Auto logout 
+23 May 00:47:49,854 INFO - Closing App 
+23 May 00:48:17,077 INFO - Auto login 
+23 May 00:48:56,196 INFO - Confirm continue 
+23 May 00:49:01,120 INFO - Started executing test:testAddExpense 
+23 May 00:49:22,022 INFO - Test is PASSED 
+23 May 00:49:22,022 INFO - Auto logout 
+23 May 00:49:22,023 INFO - Closing App 
+23 May 00:49:23,397 INFO - Publishing ExtentReport:./report/23_05_2018_12_46_37.html 
+23 May 00:54:22,417 INFO - Initializing ExtentReport 
+23 May 00:54:22,607 INFO - Initialize Global Variables 
+23 May 00:54:49,558 INFO - Auto login 
+23 May 00:55:28,668 INFO - Confirm continue 
+23 May 00:55:33,700 INFO - Started executing test:testAutoLoginLogout 
+23 May 00:55:33,713 INFO - This script will automatically login and logout 
+23 May 00:55:33,720 INFO - Test is PASSED 
+23 May 00:55:33,725 INFO - Auto logout 
+23 May 00:55:33,727 INFO - Closing App 
+23 May 00:56:01,375 INFO - Auto login 
+23 May 00:56:40,562 INFO - Confirm continue 
+23 May 00:56:45,546 INFO - Started executing test:testAddExpense 
+23 May 00:57:06,494 INFO - Test is PASSED 
+23 May 00:57:06,494 INFO - Auto logout 
+23 May 00:57:06,495 INFO - Closing App 
+23 May 00:57:07,867 INFO - Publishing ExtentReport:./report/23_05_2018_12_54_22.html 
+23 May 01:12:10,893 INFO - Initializing ExtentReport 
+23 May 01:12:11,134 INFO - Initialize Global Variables 
+23 May 01:12:39,136 INFO - Auto login 
+23 May 01:13:18,131 INFO - Confirm continue 
+23 May 01:13:23,128 INFO - Started executing test:testAutoLoginLogout 
+23 May 01:13:23,142 INFO - This script will automatically login and logout 
+23 May 01:13:23,154 INFO - Test is PASSED 
+23 May 01:13:23,171 INFO - Auto logout 
+23 May 01:13:23,172 INFO - Closing App 
+23 May 01:13:49,566 INFO - Auto login 
+23 May 01:14:30,369 INFO - Confirm continue 
+23 May 10:15:46,168 INFO - Initializing ExtentReport 
+23 May 10:15:46,359 INFO - Initialize Global Variables 
+23 May 10:17:12,436 INFO - Initializing ExtentReport 
+23 May 10:17:12,662 INFO - Initialize Global Variables 
+23 May 10:17:42,526 INFO - Auto login 
+23 May 10:18:23,942 INFO - Confirm continue 
+23 May 10:18:28,883 INFO - Started executing test:testAutoLoginLogout 
+23 May 10:18:28,896 INFO - This script will automatically login and logout 
+23 May 10:18:28,906 INFO - Test is PASSED 
+23 May 10:18:28,912 INFO - Auto logout 
+23 May 10:18:28,914 INFO - Closing App 
+23 May 10:18:56,513 INFO - Auto login 
+23 May 10:19:37,903 INFO - Confirm continue 
+23 May 10:19:42,811 INFO - Started executing test:testAddExpense 
+23 May 10:20:06,740 INFO - Test is PASSED 
+23 May 10:20:06,740 INFO - Auto logout 
+23 May 10:20:06,741 INFO - Closing App 
+23 May 10:20:08,729 INFO - Publishing ExtentReport:./report/23_05_2018_10_17_12.html 
+23 May 10:56:33,566 INFO - Initializing ExtentReport 
+23 May 10:56:33,752 INFO - Initialize Global Variables 
+23 May 10:57:01,666 INFO - Auto login 
+23 May 10:57:43,044 INFO - Confirm continue 
+23 May 10:58:22,073 INFO - Initializing ExtentReport 
+23 May 10:58:22,261 INFO - Initialize Global Variables 
+23 May 10:58:48,592 INFO - Auto login 
+23 May 10:59:27,636 INFO - Confirm continue 
+23 May 10:59:30,913 INFO - Started executing test:testAddExpense 
+23 May 10:59:40,309 INFO - Test is PASSED 
+23 May 10:59:40,312 INFO - Auto logout 
+23 May 10:59:40,313 INFO - Closing App 
+23 May 10:59:41,936 INFO - Publishing ExtentReport:./report/23_05_2018_10_58_22.html 
+23 May 11:19:10,261 INFO - Initializing ExtentReport 
+23 May 11:19:10,442 INFO - Initialize Global Variables 
+23 May 11:19:39,588 INFO - Auto login 
+23 May 11:20:18,667 INFO - Confirm continue 
+23 May 11:20:21,942 INFO - Started executing test:testAddExpense 
+23 May 11:20:31,631 INFO - Test is PASSED 
+23 May 11:20:31,635 INFO - Auto logout 
+23 May 11:20:31,636 INFO - Closing App 
+23 May 11:20:33,484 INFO - Publishing ExtentReport:./report/23_05_2018_11_19_10.html 
+23 May 18:50:00,163 INFO - Initializing ExtentReport 
+23 May 18:50:00,397 INFO - Initialize Global Variables 
+23 May 18:50:30,226 INFO - Auto login 
+23 May 18:51:09,462 INFO - Confirm continue 
+23 May 18:51:12,789 INFO - Started executing test:testAddExpense 
+23 May 18:51:53,362 INFO - Test is PASSED 
+23 May 18:51:53,365 INFO - Auto logout 
+23 May 18:51:53,366 INFO - Closing App 
+23 May 18:51:55,199 INFO - Publishing ExtentReport:./report/23_05_2018_06_50_00.html 
+24 May 23:08:01,496 INFO - Initializing ExtentReport 
+24 May 23:08:01,864 INFO - Initialize Global Variables 
+24 May 23:08:37,227 INFO - Auto login 
+24 May 23:09:16,751 INFO - Confirm continue 
+24 May 23:09:20,257 INFO - Started executing test:testAddJob 
+24 May 23:09:30,337 ERROR - Test is FAILED 
+24 May 23:09:30,339 INFO - Auto logout 
+24 May 23:09:30,340 INFO - Closing App 
+24 May 23:09:32,362 INFO - Publishing ExtentReport:./report/24_05_2018_11_08_01.html 
+24 May 23:15:46,896 INFO - Initializing ExtentReport 
+24 May 23:15:47,089 INFO - Initialize Global Variables 
+24 May 23:16:14,038 INFO - Auto login 
+24 May 23:16:55,230 INFO - Confirm continue 
+24 May 23:16:58,513 INFO - Started executing test:testAddJob 
+24 May 23:17:09,799 ERROR - Test is FAILED 
+24 May 23:17:09,802 INFO - Auto logout 
+24 May 23:17:09,803 INFO - Closing App 
+24 May 23:17:11,470 INFO - Publishing ExtentReport:./report/24_05_2018_11_15_46.html 
